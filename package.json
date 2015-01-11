@@ -1,0 +1,19 @@
+{
+  "name": "fswebcam-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tincann/fswebcam-wrapper.git"
+  },
+  "author": "tincann <saabnl@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tincann/fswebcam-wrapper/issues"
+  },
+  "homepage": "https://github.com/tincann/fswebcam-wrapper"
+}
