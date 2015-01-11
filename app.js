@@ -1,1 +1,1 @@
-var camera = require('./lib/fswebcam-wrapper.js');
+module.exports = require('./lib/fswebcam-wrapper.js');
